@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.p-checkbox-box{
+    border: 1px solid #c2bebe;
+    border-radius: 25%; 
+   }
+
+ .p-multiselect-filter {
+    border: 1px solid #c2bebe;
+    padding: 2px;
+ }
